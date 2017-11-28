@@ -1,0 +1,6 @@
+framework module Pods_FAE {
+  umbrella header "Pods-FAE-umbrella.h"
+
+  export *
+  module * { export * }
+}
